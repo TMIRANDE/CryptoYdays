@@ -1,0 +1,9 @@
+Features à ajouter :
+
+	- Variance mobiles ETH
+	- Moyennes mobiles ETH (Echelle logarithme ?)
+	- Indicateur Fear/Grid
+	- analyse des RS -> Nb tweet / intéractions / analyse du sentiment
+	- prédiction DL sur les courbes -> Différentiel prediction J-1
+	- prédiction DL sur BTC -> Importance du différentiel
+	- covariance BTC-ETH
